@@ -1,0 +1,57 @@
+
+
+
+.roodape{
+    display: flex;
+    
+    
+    
+    
+}
+
+img{
+    width: 99px;
+    height: 21px;
+    margin:auto;
+    display: inline;
+    
+}
+
+
+p{
+    margin-top: 25px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+
+
+@media screen and (min-width: 1024px);{
+    .roodape{
+        display: flex;
+        
+        
+        
+        
+    }
+    
+    img img{
+        width: 136px;
+        height: 40pxpx;
+        margin:auto;
+        display: inline;
+        margin-top: 50px;
+        
+    }
+    
+    
+    p{
+        margin-top: 30ppx;
+        padding-bottom: 30px;
+        text-align: center;
+        font-size: 14px;
+        text-align: center;
+        color:#B4B4B4;
+    }
+}
+    

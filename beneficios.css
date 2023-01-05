@@ -1,0 +1,74 @@
+/*mobile first*/
+.secao-h2{
+    font-size: 24px;
+    position: relative;
+    margin-bottom: 10px;
+
+}
+
+.bef-desc { 
+    color:#737373 ;
+    font-size: 12px;
+    margin-top: 20px;
+    opacity: 1;
+    letter-spacing: 0px;
+}
+  .section-beneficios2{
+    justify-content:center;
+    margin-top: 50px;
+    display:content;  
+}
+
+.bef-text {
+    font-size: 15px;
+    text-align: center;
+    color:#F25022;
+    letter-spacing: 1px;
+    padding: 20px;
+    margin-top: 0px;
+    border:1px solid #DEDEDE;
+}
+
+   
+
+/* descktop--------------------------------------------- */
+
+@media screen and (min-width: 1024px){
+    .secao-h2{
+        font-size: 40px;
+        text-align: center;
+        margin-bottom: 10px;
+    
+    }
+    
+    
+    .bef-desc { 
+        color:#737373 ;
+        font-size: 16px;
+        margin-top: 20px;
+        opacity: 1;
+        letter-spacing: 0px;
+        text-align: center;
+    }
+      .section-beneficios2{
+        display: flex;
+        justify-content:center;
+        flex-direction: row;
+        justify-items: baseline;
+        margin-top: 50px;
+          
+    }
+    
+    .bef-text {
+        font-size: 20px;
+        text-align: center;
+        color:#F25022;
+        letter-spacing: 1px;
+        padding: 20px;
+        margin-top: 0px;
+        border:1px solid #DEDEDE;
+    }
+    
+
+
+}

@@ -1,0 +1,158 @@
+/* mobile first*/
+
+
+.form-secao p{
+    margin-bottom: 60px;
+    font-size: 15px;
+    color:#737373;
+    text-align: center;
+
+}
+.form-desc{
+    background-color:#E6E6E6;
+    margin-top: 40px;
+    padding: 20px;
+    height: 535px;
+    width:324px;
+    border:2px solid #E6E6E6;
+    font-size:14px;
+    margin:auto;
+    margin-bottom: 30px;
+ }
+
+   
+input{
+    width:288px;
+    height:44px;
+    background-color: #ffffff;
+    padding-top: 12px;
+    border:2px solid #FFFFFF;
+
+}
+
+
+.form-title{
+    font-size: 12px;
+    text-align: left;
+    color:#2571B7;
+    padding-bottom: 10px;
+}
+.form-title-2{
+    font-size: 12px;
+    color:#737373;
+    padding-bottom: 10px;
+
+
+}
+
+ input .form-title{
+    border:2px solid #2571B7;
+}
+
+.btn-form{
+    width: 288px;
+    height: 52px;
+    background-color: #00A4EF;
+    border:2px solid #00A4EF;
+    font-size: 21px;
+    color:#FFFFFF;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+
+
+@media screen and(min-width:1024px) {
+    .form-secao p{
+        padding-top: 60px;
+        margin-bottom: 60px;
+        font-size: 24px;
+        color:#737373;
+        text-align: center;
+    
+    }
+    .form-desc{
+        background-color:#E6E6E6;
+        margin-top: 40px;
+        padding: 20px;
+        height: 722px;
+        width:564px;
+        border:2px solid #E6E6E6;
+        font-size:20px;
+        margin:auto;
+     }
+    
+       
+    input{
+        width:288px;
+        height:44px;
+        background-color: #ffffff;
+        padding-top: 12px;
+        border:2px solid #FFFFFF;
+    
+    }
+    
+    
+    .form-title{
+        font-size: 14px;
+        text-align: left;
+        color:#2571B7;
+        padding-bottom: 10px;
+    }
+    .form-title-2{
+        font-size: 12px;
+        color:#737373;
+        padding-bottom: 10px;
+    
+    
+    }
+    
+     input .form-title{
+        border:2px solid #2571B7;
+    }
+    
+    .btn-form{
+        width: 288px;
+        height: 52px;
+        background-color: #00A4EF;
+        border:2px solid #00A4EF;
+        font-size: 21px;
+        color:#FFFFFF;
+        text-align: center;
+        margin-bottom: 15px;
+    }
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+/*descktop-------------------------------------------*/
+
+@media  screen and(min-width:1024px) {
+
+    .formulario{
+
+    }
+   
+      
+     
+   .form-secao{
+       font-size: 24px;
+       text-align: center;
+       padding-top: 40px;
+       color: #737373;
+    
+   }
+
+
+
+
+}
